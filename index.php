@@ -1,5 +1,5 @@
 <?php
-$host = "13.51.233.66";
+$host = "";
 $user = "b2212";
 $pass = "12345";
 $db   = "wordpress_db";
